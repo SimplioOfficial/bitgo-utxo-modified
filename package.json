@@ -1,5 +1,5 @@
 {
-  "name": "@simplio/bitgo-utxo-modified",
+  "name": "@simpliooficial/bitgo-utxo-modified",
   "version": "1.9.0",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
